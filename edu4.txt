@@ -1,0 +1,2 @@
+firstbranch file0
+firstbranch file modified in firstbranch
